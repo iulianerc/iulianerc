@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm just a developer doing amazing things, sometimes)
+
 <!--
 **iulianerc/iulianerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
